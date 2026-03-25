@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Abhay Chand</h1>
-  <h3>Data Analyst | Machine Learning Enthusiast | B.Tech Student</h3>
+  <h3>Data Engineer | Machine Learning Enthusiast | B.Tech Student</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=abhay-chand&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-chand" />
