@@ -60,30 +60,18 @@
 <table align="center">
   <tr>
    <td width="50%">
-
-<h3 align="center">⚙️ Patient Vital Monitoring</h3>
-
-<p align="center">
-  Built a scalable healthcare <b>Data Engineering Pipeline</b> for processing and analyzing patient vital data using <b>Medallion Architecture</b> (Bronze, Silver, Gold layers). Designed ETL workflows for ingesting raw healthcare records, transforming datasets, and generating analytics-ready insights on the cloud.
-  <br /><br />
-
-  <b>✨ Key Highlights</b><br/>
-  • Real-time patient data ingestion<br/>
-  • Bronze layer for raw healthcare data<br/>
-  • Silver layer for cleaned & validated datasets<br/>
-  • Gold layer for analytics-ready reporting<br/>
-  • Automated ETL & transformation workflows<br/>
-  • Cloud-based data processing with GCP
-  <br /><br />
-
-  <b>⚡ Tech:</b> Python, GCP, BigQuery, SQL, Pandas, ETL Pipelines
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhay-Chand/Patient-Vital-Monitoring">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <h3 align="center">⚙️ Patient Vital Monitoring</h3>
+  <p align="center">
+    Scalable healthcare data engineering pipeline built using Medallion Architecture (Bronze, Silver, Gold layers). Features automated ETL workflows, cloud-based data processing, and analytics-ready healthcare insights on GCP.
+    <br />
+    <b>Tech:</b> Python, GCP, BigQuery, SQL, Pandas
+  </p>
+  <p align="center">
+    <a href="https://github.com/Abhay-Chand/Patient-Vital-Monitoring">
+      <img src="https://img.shields.io/badge/View_Project-blue?style=flat-square&logo=github" />
+    </a>
+  </p>
+</td>
 
 </td>
       <h3 align="center">🩸 DetectXpert</h3>
