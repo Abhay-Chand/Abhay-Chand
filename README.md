@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=🔧+Building+Scalable+Data+Pipelines;☁️+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;🤖+AI%2FML+%7C+LangChain+%7C+HuggingFace;📊+Analytics+→+Engineering+%7C+End-to-End;🚀+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=+Building+Scalable+Data+Pipelines;+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;+AI%2FML+%7C+LangChain+%7C+HuggingFace;+Analytics+→+Engineering+%7C+End-to-End;+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
