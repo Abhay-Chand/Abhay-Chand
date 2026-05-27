@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```python
 class DataEngineer:
@@ -31,7 +31,7 @@ class DataEngineer:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 #### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
@@ -70,9 +70,9 @@ class DataEngineer:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ⚡ Real-Time E-Commerce Data Pipeline
+### 1. Real-Time E-Commerce Data Pipeline
 > **Stack:** Python · Apache Kafka · PySpark · AWS S3 · Amazon Redshift · Apache Airflow
 
 - Architected end-to-end streaming pipeline ingesting **500K+ daily events** from Kafka → Redshift
@@ -84,7 +84,7 @@ class DataEngineer:
 
 ---
 
-### 🏥 Scalable Data Warehouse for Healthcare Analytics
+### 2. Scalable Data Warehouse for Healthcare Analytics
 > **Stack:** Python · dbt · PostgreSQL · AWS Glue · S3
 
 - Designed **star-schema data warehouse** consolidating 5 heterogeneous sources
@@ -96,7 +96,7 @@ class DataEngineer:
 
 ---
 
-### 📊 Server Log Analytics & Anomaly Detection
+### 3, Server Log Analytics & Anomaly Detection
 > **Stack:** Python · PySpark · ELK Stack · Apache Airflow
 
 - Processed **2M+ server log entries daily** with PySpark — anomaly detection at **92% accuracy**
@@ -106,7 +106,7 @@ class DataEngineer:
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -117,7 +117,7 @@ class DataEngineer:
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
