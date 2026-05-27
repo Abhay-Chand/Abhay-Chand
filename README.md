@@ -52,15 +52,15 @@ class AbhayChand:
 <div align="center">
 
 ```
-╔══════════════════╗      ╔══════════════════╗      ╔══════════════════════╗
-║  📊 ANALYTICS    ║  ──► ║  🤖 AI / ML      ║  ──► ║  ⚙️  DATA ENGINEERING ║
-╠══════════════════╣      ╠══════════════════╣      ╠══════════════════════╣
-║ Tableau · Power  ║      ║ Scikit-learn     ║      ║ Apache Spark · Kafka ║
-║ BI · Excel       ║      ║ TensorFlow       ║      ║ Airflow · dbt · Glue ║
-║ Pandas · Seaborn ║      ║ PyTorch · OpenCV ║      ║ Redshift · S3 · EMR  ║
-║ Plotly · Numpy   ║      ║ HuggingFace      ║      ║ Docker · CI/CD       ║
-╚══════════════════╝      ║ LangChain        ║      ╚══════════════════════╝
-                          ╚══════════════════╝
+╔══════════════════╗         ╔══════════════════╗        ╔══════════════════════╗
+║   ANALYTICS      ║  ──►    ║   AI / ML        ║  ──►   ║     DATA ENGINEERING ║
+╠══════════════════╣         ╠══════════════════╣        ╠══════════════════════╣
+║ Tableau · Power  ║         ║ Scikit-learn     ║        ║ Apache Spark · Kafka ║
+║ BI · Excel       ║         ║ TensorFlow       ║        ║ Airflow · dbt · Glue ║
+║ Pandas · Seaborn ║         ║ PyTorch · OpenCV ║        ║ Redshift · S3 · EMR  ║
+║ Plotly · Numpy   ║         ║ HuggingFace      ║        ║ Docker · CI/CD       ║
+╚══════════════════╝         ║ LangChain        ║        ╚══════════════════════╝
+╚══════════════════╝
 ```
 
 > *Started with making data visual and meaningful → learned to model and predict → now building the infrastructure that powers it all at scale.*
