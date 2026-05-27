@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0D2137,100:1565C0&height=280&section=header&text=Abhay%20Chand&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Pipeline%20Architect&descSize=18&descAlignY=60&descColor=4EC5EE" />
 
 <!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=+Building+Scalable+Data+Pipelines;+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;+AI%2FML+%7C+LangChain+%7C+HuggingFace;+Analytics+→+Engineering+%7C+End-to-End;+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=+Building+Scalable+Data+Pipelines;+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;+AI%2FML+%7C+LangChain+%7C+HuggingFace;+Analytics+%E2%86%92+Engineering+%7C+End-to-End;+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +24,7 @@
 <!-- About Me Section with Snake Animation -->
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 🧠 `whoami`
+##  `whoami`
 
 ```python
 class AbhayChand:
@@ -38,18 +36,18 @@ class AbhayChand:
                           "Cloud Data Infrastructure"]
         self.learning  = ["Delta Lake", "Snowflake",
                           "Terraform", "Apache Flink"]
-        self.open_to   = "Full-time Data Engineering Roles 🚀"
+        self.open_to   = "Full-time Data Engineering Roles "
 
     def quote(self):
         return ("Analysed it. Modelled it. Visualised it. "
-                "Now I build the infrastructure that powers it all. 🔧")
+                "Now I build the infrastructure that powers it all. ")
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🚀 My Data Journey
+## My Data Journey
 
 <div align="center">
 
@@ -71,11 +69,11 @@ class AbhayChand:
 
 ---
 
-## 🛠️ Full Tech Stack
+##  Full Tech Stack
 
 <div align="center">
 
-### 📊 Data Analytics & Visualisation
+###  Data Analytics & Visualisation
 ![Tableau](https://img.shields.io/badge/Tableau-0D2137?style=for-the-badge&logo=tableau&logoColor=E97627)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0D2137?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0D2137?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
@@ -85,7 +83,7 @@ class AbhayChand:
 ![Seaborn](https://img.shields.io/badge/Seaborn-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
 ![Plotly](https://img.shields.io/badge/Plotly-0D2137?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D2137?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D2137?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D2137?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -95,13 +93,13 @@ class AbhayChand:
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D2137?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D2137?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
-### 🔥 Big Data & Streaming
+###  Big Data & Streaming
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0D2137?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D2137?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-0D2137?style=for-the-badge&logo=apachehive&logoColor=FDEE21)
 ![Hadoop](https://img.shields.io/badge/Hadoop%20HDFS-0D2137?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
 
-### ☁️ Cloud — AWS & GCP
+###  Cloud — AWS & GCP
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-0D2137?style=for-the-badge&logo=amazons3&logoColor=FF9900)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Redshift](https://img.shields.io/badge/Redshift-0D2137?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF)
@@ -110,19 +108,19 @@ class AbhayChand:
 ![AWS EMR](https://img.shields.io/badge/AWS%20EMR-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![BigQuery](https://img.shields.io/badge/BigQuery-0D2137?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
 
-### ⚙️ ETL, Orchestration & Transformation
+###  ETL, Orchestration & Transformation
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-0D2137?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 ![dbt](https://img.shields.io/badge/dbt-0D2137?style=for-the-badge&logo=dbt&logoColor=FF694B)
 ![Talend](https://img.shields.io/badge/Talend-0D2137?style=for-the-badge&logo=talend&logoColor=1675BC)
 
-### 🗄️ Databases & Storage
+###  Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D2137?style=for-the-badge&logo=postgresql&logoColor=4EC5EE)
 ![MySQL](https://img.shields.io/badge/MySQL-0D2137?style=for-the-badge&logo=mysql&logoColor=4EC5EE)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D2137?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Cassandra](https://img.shields.io/badge/Cassandra-0D2137?style=for-the-badge&logo=apachecassandra&logoColor=ffffff)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D2137?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 
-### 💻 Languages & DevOps
+###  Languages & DevOps
 ![Python](https://img.shields.io/badge/Python-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
 ![SQL](https://img.shields.io/badge/SQL-0D2137?style=for-the-badge&logo=postgresql&logoColor=4EC5EE)
 ![Bash](https://img.shields.io/badge/Bash-0D2137?style=for-the-badge&logo=gnubash&logoColor=4EC5EE)
@@ -137,56 +135,53 @@ class AbhayChand:
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 🛠️ Stack | 📈 Impact |
+|  Project |  Stack |  Impact |
 |:-----------|:---------|:---------|
-| **⚡ Real-Time E-Commerce Pipeline** | Kafka · PySpark · AWS S3 · Redshift · Airflow | 500K+ daily events · 40% latency reduction · 99.5% uptime |
-| **🏥 Healthcare Data Warehouse** | dbt · PostgreSQL · AWS Glue · S3 | Star-schema · 95% data quality gain · 60% faster ETL |
-| **🔍 Server Log Anomaly Detection** | PySpark · ELK Stack · Airflow | 2M+ logs/day · 92% accuracy · 35% faster incident resolution |
-| **📈 Sales Forecasting Dashboard** | Scikit-learn · Tableau | 89% revenue prediction accuracy |
-| **🧠 NLP Sentiment Pipeline** | HuggingFace · Streamlit | Fine-tuned BERT on 50K reviews |
-| **👁️ Object Detection System** | OpenCV · TensorFlow | 94% precision on custom dataset |
+| ** Real-Time E-Commerce Pipeline** | Kafka · PySpark · AWS S3 · Redshift · Airflow | 500K+ daily events · 40% latency reduction · 99.5% uptime |
+| ** Healthcare Data Warehouse** | dbt · PostgreSQL · AWS Glue · S3 | Star-schema · 95% data quality gain · 60% faster ETL |
+| ** Server Log Anomaly Detection** | PySpark · ELK Stack · Airflow | 2M+ logs/day · 92% accuracy · 35% faster incident resolution |
+| ** Sales Forecasting Dashboard** | Scikit-learn · Tableau | 89% revenue prediction accuracy |
+| ** NLP Sentiment Pipeline** | HuggingFace · Streamlit | Fine-tuned BERT on 50K reviews |
+| ** Object Detection System** | OpenCV · TensorFlow | 94% precision on custom dataset |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&icon_color=1565C0&text_color=ffffff&border_color=1565C0&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chand&layout=compact&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&text_color=ffffff&border_color=1565C0&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&icon_color=1565C0&text_color=ffffff&border_color=1565C0&hide_border=false&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chand&layout=compact&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&text_color=ffffff&border_color=1565C0&langs_count=8&hide=jupyter%20notebook"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhay-Chand&theme=github-dark-blue&background=0D2137&ring=1565C0&fire=4EC5EE&currStreakLabel=4EC5EE&border=1565C0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Chand&theme=dark&background=0D2137&ring=1565C0&fire=4EC5EE&currStreakLabel=4EC5EE&sideLabels=ffffff&dates=aaaaaa&border=1565C0&stroke=1565C0)](https://github.com/Abhay-Chand)
 
 </div>
 
-<!-- Snake Contribution Graph Animation -->
+<!-- Real Contribution Graph — uses YOUR actual GitHub activity -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+![Abhay-Chand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Chand&bg_color=0D2137&color=4EC5EE&line=1565C0&point=4EC5EE&area=true&area_color=1565C0&hide_border=false&border_color=1565C0&title_color=4EC5EE)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <div align="center">
 
-| 🏅 Achievement | 📋 Details |
+|  Achievement |  Details |
 |:--------------|:-----------|
 | 🥈 **Finalist – Smart India Hackathon 2024** | Real-time crop-yield prediction · satellite & IoT data · 3 states |
 | 🏆 **Top 10% on LeetCode** | 200+ SQL & Python problems · query optimization focus |
@@ -210,9 +205,9 @@ class AbhayChand:
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0D1117&height=100&section=footer"/>
 
-### 💬 *"I've explored data from every angle — analysed it, modelled it, visualised it.*
-### *Now I build the infrastructure that powers it all."* 🔧
+###  *"I've explored data from every angle — analysed it, modelled it, visualised it.*
+### *Now I build the infrastructure that powers it all."* 
 
-**✨ If you find my work useful, consider giving a ⭐ — it means a lot!**
+** If you find my work useful, consider giving a  — it means a lot!**
 
 </div>
