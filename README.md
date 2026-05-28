@@ -11,9 +11,8 @@
 <!-- Profile Views + Social Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abhay-chand)
 [![GitHub](https://img.shields.io/badge/GitHub-0D2137?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Abhay-Chand)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D2137?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Abhay-Chand)
-[![Tableau](https://img.shields.io/badge/Tableau-0D2137?style=for-the-badge&logo=tableau&logoColor=E97627)](https://public.tableau.com/app/profile/abhay-chand)
-[![Email](https://img.shields.io/badge/Gmail-0D2137?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D2137?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/wr0LduKi9s/)
+[![Email](https://img.shields.io/badge/Gmail-0D2137?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chndabhy0164@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhay-Chand&color=1565C0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Abhay-Chand)
 
