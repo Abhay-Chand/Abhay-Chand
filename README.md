@@ -134,22 +134,7 @@ class AbhayChand:
 
 ---
 
-##  Featured Projects
 
-<div align="center">
-
-|  Project |  Stack |  Impact |
-|:-----------|:---------|:---------|
-| ** Real-Time E-Commerce Pipeline** | Kafka · PySpark · AWS S3 · Redshift · Airflow | 500K+ daily events · 40% latency reduction · 99.5% uptime |
-| ** Healthcare Data Warehouse** | dbt · PostgreSQL · AWS Glue · S3 | Star-schema · 95% data quality gain · 60% faster ETL |
-| ** Server Log Anomaly Detection** | PySpark · ELK Stack · Airflow | 2M+ logs/day · 92% accuracy · 35% faster incident resolution |
-| ** Sales Forecasting Dashboard** | Scikit-learn · Tableau | 89% revenue prediction accuracy |
-| ** NLP Sentiment Pipeline** | HuggingFace · Streamlit | Fine-tuned BERT on 50K reviews |
-| ** Object Detection System** | OpenCV · TensorFlow | 94% precision on custom dataset |
-
-</div>
-
----
 
 ##  GitHub Stats
 
@@ -176,28 +161,7 @@ class AbhayChand:
 
 ---
 
-##  Achievements & Certifications
 
-<div align="center">
-
-|  Achievement |  Details |
-|:--------------|:-----------|
-| 🥈 **Finalist – Smart India Hackathon 2024** | Real-time crop-yield prediction · satellite & IoT data · 3 states |
-| 🏆 **Top 10% on LeetCode** | 200+ SQL & Python problems · query optimization focus |
-| 👨‍🏫 **Technical Lead – Data Science Club** | Mentored 40+ students · 6 workshops/semester |
-
-</div>
-
-<div align="center">
-
-[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![Google Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-0D2137?style=for-the-badge&logo=google&logoColor=4285F4)](https://grow.google/certificates/data-analytics/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark%20%2B%20PySpark-0D2137?style=for-the-badge&logo=apachespark&logoColor=E25A1C)](https://www.udemy.com/)
-[![HackerRank SQL Gold](https://img.shields.io/badge/HackerRank%20SQL%20Gold%20%7C%20Top%205%25-0D2137?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/)
-
-</div>
-
----
 
 <div align="center">
 
