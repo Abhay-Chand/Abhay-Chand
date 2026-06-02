@@ -30,12 +30,12 @@ class AbhayChand:
     def __init__(self):
         self.name      = "Abhay Chand"
         self.role      = "Data Engineer | Ex-Data Analyst | AI/ML"
-        self.location  = "Bengaluru, India 🇮🇳"
+        self.location  = "Delhi, India 🇮🇳"
         self.focus     = ["ETL Pipelines", "Big Data",
                           "Cloud Data Infrastructure"]
         self.learning  = ["Delta Lake", "Snowflake",
                           "Terraform", "Apache Flink"]
-        self.open_to   = "Full-time Data Engineering Roles "
+        self.open_to   = "Full-time Data Engineering Roles"
 
     def quote(self):
         return ("Analysed it. Modelled it. Visualised it. "
