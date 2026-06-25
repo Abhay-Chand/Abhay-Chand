@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0D2137,100:1565C0&height=280&section=header&text=Abhay%20Chand&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Pipeline%20Architect&descSize=18&descAlignY=60&descColor=4EC5EE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:1565C0&height=280&section=header&text=Abhay%20Chand&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Pipeline%20Architect&descSize=18&descAlignY=60&descColor=4EC5EE" />
 
 <!-- Typing SVG Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=+Building+Scalable+Data+Pipelines;+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;+AI%2FML+%7C+LangChain+%7C+HuggingFace;+Analytics+%E2%86%92+Engineering+%7C+End-to-End;+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
