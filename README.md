@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:1565C0&height=280&section=header&text=Abhay%20Chand&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Pipeline%20Architect&descSize=18&descAlignY=60&descColor=4EC5EE" />
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=+Building+Scalable+Data+Pipelines;+AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;+AI%2FML+%7C+LangChain+%7C+HuggingFace;+Analytics+%E2%86%92+Engineering+%7C+End-to-End;+Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines;AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;AI%2FML+%7C+LangChain+%7C+HuggingFace;Analytics+%E2%86%92+Engineering+%7C+End-to-End;Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views + Social Badges Row -->
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abhay-chand)
 [![GitHub](https://img.shields.io/badge/GitHub-0D2137?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Abhay-Chand)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D2137?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/wr0LduKi9s/)
@@ -20,10 +20,9 @@
 
 ---
 
-<!-- About Me Section with Snake Animation -->
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-##  `whoami`
+## `whoami`
 
 ```python
 class AbhayChand:
@@ -39,7 +38,7 @@ class AbhayChand:
 
     def quote(self):
         return ("Analysed it. Modelled it. Visualised it. "
-                "Now I build the infrastructure that powers it all. ")
+                "Now I build the infrastructure that powers it all.")
 ```
 
 <br clear="right"/>
@@ -52,14 +51,14 @@ class AbhayChand:
 
 ```
 ╔══════════════════╗         ╔══════════════════╗        ╔══════════════════════╗
-║   ANALYTICS      ║  ──►    ║   AI / ML        ║  ──►   ║     DATA ENGINEERING ║
+║   ANALYTICS      ║  ──►    ║   AI / ML        ║  ──►   ║   DATA ENGINEERING   ║
 ╠══════════════════╣         ╠══════════════════╣        ╠══════════════════════╣
 ║ Tableau · Power  ║         ║ Scikit-learn     ║        ║ Apache Spark · Kafka ║
 ║ BI · Excel       ║         ║ TensorFlow       ║        ║ Airflow · dbt · Glue ║
 ║ Pandas · Seaborn ║         ║ PyTorch · OpenCV ║        ║ Redshift · S3 · EMR  ║
 ║ Plotly · Numpy   ║         ║ HuggingFace      ║        ║ Docker · CI/CD       ║
 ╚══════════════════╝         ║ LangChain        ║        ╚══════════════════════╝
-╚══════════════════╝
+                             ╚══════════════════╝
 ```
 
 > *Started with making data visual and meaningful → learned to model and predict → now building the infrastructure that powers it all at scale.*
@@ -82,7 +81,7 @@ class AbhayChand:
 ![Seaborn](https://img.shields.io/badge/Seaborn-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
 ![Plotly](https://img.shields.io/badge/Plotly-0D2137?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
-### AI / Machine Learning
+###  AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D2137?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D2137?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D2137?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
@@ -134,43 +133,167 @@ class AbhayChand:
 
 ---
 
-
-
 ##  GitHub Stats
 
+<!-- Stats + Top Languages side by side -->
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&icon_color=1565C0&text_color=ffffff&border_color=1565C0&hide_border=false&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chand&layout=compact&theme=github_dark&bg_color=0D2137&title_color=4EC5EE&text_color=ffffff&border_color=1565C0&langs_count=8&hide=jupyter%20notebook"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=transparent&hide_border=false&border_color=1565C0&title_color=4EC5EE&icon_color=4EC5EE&text_color=ffffff&bg_color=0D2137&include_all_commits=true&count_private=true&rank_icon=github"
+       alt="Abhay's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chand&layout=compact&theme=transparent&hide_border=false&border_color=1565C0&title_color=4EC5EE&text_color=ffffff&bg_color=0D2137&langs_count=8&exclude_repo=github-readme-stats"
+       alt="Top Languages"/>
 </div>
 
+<br/>
+
+<!-- GitHub Streak — live, updates daily -->
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhay-Chand&theme=dark&background=0D2137&ring=1565C0&fire=4EC5EE&currStreakLabel=4EC5EE&sideLabels=ffffff&dates=aaaaaa&border=1565C0&stroke=1565C0)](https://github.com/Abhay-Chand)
-
+  <img src="https://streak-stats.demolab.com?user=Abhay-Chand&theme=transparent&background=0D2137&ring=1565C0&fire=4EC5EE&currStreakLabel=4EC5EE&sideLabels=ffffff&dates=aaaaaa&border=1565C0&stroke=1565C0&hide_border=false"
+       alt="GitHub Streak"/>
 </div>
 
-<!-- Real Contribution Graph — uses YOUR actual GitHub activity -->
+<br/>
+
+<!-- GitHub Trophies — dynamically fetched -->
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay-Chand&theme=darkhub&no-frame=false&no-bg=false&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Experience"
+       alt="GitHub Trophies"/>
+</div>
 
-![Abhay-Chand's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Chand&bg_color=0D2137&color=4EC5EE&line=1565C0&point=4EC5EE&area=true&area_color=1565C0&hide_border=false&border_color=1565C0&title_color=4EC5EE)
+<br/>
 
+<!-- Contribution Activity Graph — live -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Chand&bg_color=0D2137&color=4EC5EE&line=1565C0&point=4EC5EE&area=true&area_color=1565C0&hide_border=false&border_color=1565C0&title_color=4EC5EE"
+       alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Detailed Metrics — commits per day/week heatmap, language pie, etc. -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Chand&theme=github_dark"
+       alt="Profile Summary"/>
+</div>
+
+<br/>
+
+<!-- Four summary mini-cards in a row -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhay-Chand&theme=github_dark" height="160" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay-Chand&theme=github_dark" height="160" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay-Chand&theme=github_dark" height="160" alt="Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhay-Chand&theme=github_dark&utcOffset=5.5" height="160" alt="Productive Time (IST)"/>
 </div>
 
 ---
 
-
+##  Contribution Snake
 
 <div align="center">
+
+> *Every commit feeds the snake — watch it grow!*
+
+<!-- 
+  Snake SVG is generated by your GitHub Actions workflow.
+   BEFORE the workflow runs: shows a placeholder.
+   AFTER you run the workflow once: shows YOUR real contribution snake.
+  
+  Run it now: Actions tab → "Generate Snake Animation" → "Run workflow" (takes ~30 sec)
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Abhay-Chand/Abhay-Chand/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Abhay-Chand/Abhay-Chand/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/Abhay-Chand/Abhay-Chand/output/github-contribution-grid-snake.svg"
+       onerror="this.style.display='none'" />
+</picture>
+
+<!-- Temporary fallback shown while workflow hasn't run yet -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4EC5EE&center=true&vCenter=true&width=600&lines=🐍+Snake+coming+soon...+Run+the+Actions+workflow+once!;Go+to+Actions+tab+→+Generate+Snake+Animation+→+Run+workflow" alt="Snake pending" />
+
+</div>
+
+> **⚙️ One-time setup — 3 steps:**
+> 1. In your profile repo (`Abhay-Chand/Abhay-Chand`), create the file `.github/workflows/snake.yml` with the YAML below.
+> 2. Go to **Settings → Actions → General** → set *Workflow permissions* to **"Read and write permissions"** → Save.
+> 3. Go to **Actions tab** → click `Generate Snake Animation` → click **"Run workflow"** → the SVG will appear on the `output` branch within ~30 seconds and the snake will show here instantly.
+
+<details>
+<summary> Click to expand — <code>.github/workflows/snake.yml</code></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # auto-regenerates every day at midnight UTC
+  workflow_dispatch:           # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+## LeetCode Stats
+
+<div align="center">
+
+<!-- ⚠️ Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode username (not the session ID) -->
+<!-- To find it: go to leetcode.com → your profile → the name shown in the URL: leetcode.com/u/YOUR_USERNAME -->
+  <img src="https://leetcard.jacoblin.cool/wr0LduKi9s?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=10"
+       alt="LeetCode Stats"/>
+
+</div>
+
+> **⚙️ Fix needed:** The LeetCode card uses your **profile username**, not a session ID. Go to [leetcode.com](https://leetcode.com) → click your avatar → your username is shown in the URL as `leetcode.com/u/YOUR_USERNAME`. Replace `Abhay-Chand` in the image URL above with that username.
+
+---
+
+## 📊 Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+> **⚙️ Activate WakaTime:** Sign up at [wakatime.com](https://wakatime.com), install the IDE plugin, add your `WAKATIME_API_KEY` to repo secrets, then add the [waka-readme](https://github.com/athul/waka-readme) GitHub Action. Your coding hours by language/project will auto-update here weekly.
+<!--END_SECTION:waka-->
+
+---
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:0D1117&height=100&section=footer"/>
 
-###  *"I've explored data from every angle — analysed it, modelled it, visualised it.*
-### *Now I build the infrastructure that powers it all."* 
+<div align="center">
 
-** If you find my work useful, consider giving a  — it means a lot!**
+### *"I've explored data from every angle — analysed it, modelled it, visualised it.*
+### *Now I build the infrastructure that powers it all."*
+
+**If you find my work useful, consider giving a ⭐ — it means a lot!**
 
 </div>
