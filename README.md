@@ -1,201 +1,93 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:1565C0&height=280&section=header&text=Abhay%20Chand&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%E2%80%A2%20AI%2FML%20Practitioner%20%E2%80%A2%20Pipeline%20Architect&descSize=18&descAlignY=60&descColor=4EC5EE" />
+# Hi, I'm Abhay Chand 👋
 
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4EC5EE&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Pipelines;AWS+Cloud+%7C+Apache+Spark+%7C+Kafka;AI%2FML+%7C+LangChain+%7C+HuggingFace;Analytics+%E2%86%92+Engineering+%7C+End-to-End;Open+to+Data+Engineering+Roles!" alt="Typing SVG" />
+### AI Engineer building production RAG & agentic systems
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+WavyGo;LangChain+%2B+LangGraph+%2B+FastAPI;RAG+Pipelines+%7C+Multi-Agent+Systems;Published+AI+Researcher+(IJSREM))](https://git.io/typing-svg)
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/abhay-chand)
-[![GitHub](https://img.shields.io/badge/GitHub-0D2137?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Abhay-Chand)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D2137?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/wr0LduKi9s/)
-[![Email](https://img.shields.io/badge/Gmail-0D2137?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:chndabhy0164@gmail.com)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Abhay-Chand&color=1565C0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Abhay-Chand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-chand/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay-Chand)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
----
+<br>
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## About
 
-## `whoami`
+AI Engineer at **WavyGo**, a self-drive bike & scooter rental platform, where I build RAG pipelines and conversational systems used in production. B.Tech AI/ML, graduating 2026. Published AI researcher — [IJSREM Vol. 10, Issue 8](https://www.ijsrem.com/) on intelligent productivity systems.
+
+I care about systems that actually ship — not notebooks that stop at 90% accuracy on a validation set. Everything below is either live, deployed, or in active production use.
 
 ```python
 class AbhayChand:
     def __init__(self):
-        self.name      = "Abhay Chand"
-        self.role      = "Data Engineer | Ex-Data Analyst | AI/ML"
-        self.location  = "Delhi, India 🇮🇳"
-        self.focus     = ["ETL Pipelines", "Big Data",
-                          "Cloud Data Infrastructure"]
-        self.learning  = ["Delta Lake", "Snowflake",
-                          "Terraform", "Apache Flink"]
-        self.open_to   = "Full-time Data Engineering Roles"
+        self.role = "AI Engineer"
+        self.stack = ["Python", "LangChain", "LangGraph", "FastAPI", "PyTorch"]
+        self.currently_building = "Agentic legal-AI assistant with async RAG"
+        self.open_to = ["AI Engineer", "ML Engineer", "Data Analyst"]
 
-    def quote(self):
-        return ("Analysed it. Modelled it. Visualised it. "
-                "Now I build the infrastructure that powers it all.")
+    def debug_life(self):
+        return "print(f'{problem=}')" if stuck else "ship_it()"
 ```
 
-<br clear="right"/>
+<br>
 
----
+## Currently Building
 
-## My Data Journey
+| Project | What it does | Stack |
+|---|---|---|
+| **[LegaliGPT](https://github.com/Abhay-Chand)** | Agentic legal-AI assistant — async RAG over case law with LangGraph reasoning agents | LangGraph · SQLAlchemy 2.x (async) · Alembic · Pydantic |
+| **WavyGo FAQ Bot** *(production)* | Bilingual (EN/Hindi) WhatsApp support bot serving live rental customers | LangChain · Meta Cloud API · Redis · FastAPI |
+| **[Tripo](https://github.com/Abhay-Chand)** | Multi-agent travel planner — Flight → Hotel → Itinerary agents with real flight/search APIs | LangGraph · Groq · PostgreSQL · AviationStack |
+| **[CareerGym AI](https://github.com/Abhay-Chand)** | Interview-prep platform with speaking, typing & technical labs feeding a live readiness score | Python · Speech/NLP pipelines |
+
+<br>
+
+## Tech Stack
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Backend & Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-```
-╔══════════════════╗         ╔══════════════════╗        ╔══════════════════════╗
-║   ANALYTICS      ║  ──►    ║   AI / ML        ║  ──►   ║   DATA ENGINEERING   ║
-╠══════════════════╣         ╠══════════════════╣        ╠══════════════════════╣
-║ Tableau · Power  ║         ║ Scikit-learn     ║        ║ Apache Spark · Kafka ║
-║ BI · Excel       ║         ║ TensorFlow       ║        ║ Airflow · dbt · Glue ║
-║ Pandas · Seaborn ║         ║ PyTorch · OpenCV ║        ║ Redshift · S3 · EMR  ║
-║ Plotly · Numpy   ║         ║ HuggingFace      ║        ║ Docker · CI/CD       ║
-╚══════════════════╝         ║ LangChain        ║        ╚══════════════════════╝
-                             ╚══════════════════╝
-```
-
-> *Started with making data visual and meaningful → learned to model and predict → now building the infrastructure that powers it all at scale.*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-Chand&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE" />
 
 </div>
 
----
+<br>
 
-##  Full Tech Stack
+## Publication
 
-<div align="center">
+📄 **"My Aiger" — AI-Powered Intelligent Productivity Systems**
+*IJSREM, Vol. 10, Issue 8, August 2026 — Manuscript ID IJSREM66477*
 
-###  Data Analytics & Visualisation
-![Tableau](https://img.shields.io/badge/Tableau-0D2137?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D2137?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-0D2137?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Pandas](https://img.shields.io/badge/Pandas-0D2137?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D2137?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
-![Plotly](https://img.shields.io/badge/Plotly-0D2137?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-
-###  AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D2137?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D2137?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D2137?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D2137?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0D2137?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0D2137?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D2137?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D2137?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-###  Big Data & Streaming
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0D2137?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D2137?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-0D2137?style=for-the-badge&logo=apachehive&logoColor=FDEE21)
-![Hadoop](https://img.shields.io/badge/Hadoop%20HDFS-0D2137?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
-
-###  Cloud — AWS & GCP
-![AWS S3](https://img.shields.io/badge/AWS%20S3-0D2137?style=for-the-badge&logo=amazons3&logoColor=FF9900)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Redshift](https://img.shields.io/badge/Redshift-0D2137?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-0D2137?style=for-the-badge&logo=awslambda&logoColor=FF9900)
-![Athena](https://img.shields.io/badge/Athena-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![AWS EMR](https://img.shields.io/badge/AWS%20EMR-0D2137?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D2137?style=for-the-badge&logo=googlebigquery&logoColor=4285F4)
-
-###  ETL, Orchestration & Transformation
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-0D2137?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-![dbt](https://img.shields.io/badge/dbt-0D2137?style=for-the-badge&logo=dbt&logoColor=FF694B)
-![Talend](https://img.shields.io/badge/Talend-0D2137?style=for-the-badge&logo=talend&logoColor=1675BC)
-
-###  Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D2137?style=for-the-badge&logo=postgresql&logoColor=4EC5EE)
-![MySQL](https://img.shields.io/badge/MySQL-0D2137?style=for-the-badge&logo=mysql&logoColor=4EC5EE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D2137?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Cassandra](https://img.shields.io/badge/Cassandra-0D2137?style=for-the-badge&logo=apachecassandra&logoColor=ffffff)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0D2137?style=for-the-badge&logo=elasticsearch&logoColor=005571)
-
-###  Languages & DevOps
-![Python](https://img.shields.io/badge/Python-0D2137?style=for-the-badge&logo=python&logoColor=4EC5EE)
-![SQL](https://img.shields.io/badge/SQL-0D2137?style=for-the-badge&logo=postgresql&logoColor=4EC5EE)
-![Bash](https://img.shields.io/badge/Bash-0D2137?style=for-the-badge&logo=gnubash&logoColor=4EC5EE)
-![R](https://img.shields.io/badge/R-0D2137?style=for-the-badge&logo=r&logoColor=276DC3)
-![Docker](https://img.shields.io/badge/Docker-0D2137?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D2137?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D2137?style=for-the-badge&logo=githubactions&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-0D2137?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D2137?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-##  GitHub Stats
-
-<!-- Stats + Top Languages side by side -->
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Abhay-Chand&show_icons=true&theme=transparent&hide_border=false&border_color=1565C0&title_color=4EC5EE&icon_color=4EC5EE&text_color=ffffff&bg_color=0D2137&include_all_commits=true&count_private=true&rank_icon=github"
-       alt="Abhay's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Chand&layout=compact&theme=transparent&hide_border=false&border_color=1565C0&title_color=4EC5EE&text_color=ffffff&bg_color=0D2137&langs_count=8&exclude_repo=github-readme-stats"
-       alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- GitHub Streak — live, updates daily -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhay-Chand&theme=transparent&background=0D2137&ring=1565C0&fire=4EC5EE&currStreakLabel=4EC5EE&sideLabels=ffffff&dates=aaaaaa&border=1565C0&stroke=1565C0&hide_border=false"
-       alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- GitHub Trophies — dynamically fetched -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay-Chand&theme=darkhub&no-frame=false&no-bg=false&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Experience"
-       alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- Contribution Activity Graph — live -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Chand&bg_color=0D2137&color=4EC5EE&line=1565C0&point=4EC5EE&area=true&area_color=1565C0&hide_border=false&border_color=1565C0&title_color=4EC5EE"
-       alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<!-- Detailed Metrics — commits per day/week heatmap, language pie, etc. -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Chand&theme=github_dark"
-       alt="Profile Summary"/>
-</div>
-
-<br/>
-
-<!-- Four summary mini-cards in a row -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhay-Chand&theme=github_dark" height="160" alt="Repos Per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhay-Chand&theme=github_dark" height="160" alt="Most Commit Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhay-Chand&theme=github_dark" height="160" alt="Stats"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhay-Chand&theme=github_dark&utcOffset=5.5" height="160" alt="Productive Time (IST)"/>
-</div>
+<br>
 
 <div align="center">
 
-### *"I've explored data from every angle — analysed it, modelled it, visualised it.*
-### *Now I build the infrastructure that powers it all."*
-
-**If you find my work useful, consider giving a ⭐ — it means a lot!**
+📫 Reach me on **[LinkedIn](https://linkedin.com/in/abhay-chand/)** — open to AI Engineer / ML Engineer / Data Analyst roles
 
 </div>
