@@ -25,7 +25,7 @@ class AbhayChand:
     def __init__(self):
         self.role = "AI Engineer"
         self.stack = ["Python", "LangChain", "LangGraph", "FastAPI", "PyTorch"]
-        self.currently_building = "Agentic legal-AI assistant with async RAG"
+        self.currently_building = " Multi-agent travel planner"
         self.open_to = ["AI Engineer", "ML Engineer", "Data Analyst"]
 
     def debug_life(self):
@@ -38,9 +38,9 @@ class AbhayChand:
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Tripo](https://github.com/Abhay-Chand)** | Multi-agent travel planner — Flight → Hotel → Itinerary agents with real flight/search APIs | LangGraph · Groq · PostgreSQL · AviationStack |
 | **[LegaliGPT](https://github.com/Abhay-Chand)** | Agentic legal-AI assistant — async RAG over case law with LangGraph reasoning agents | LangGraph · SQLAlchemy 2.x (async) · Alembic · Pydantic |
 | **WavyGo FAQ Bot** *(production)* | Bilingual (EN/Hindi) WhatsApp support bot serving live rental customers | LangChain · Meta Cloud API · Redis · FastAPI |
-| **[Tripo](https://github.com/Abhay-Chand)** | Multi-agent travel planner — Flight → Hotel → Itinerary agents with real flight/search APIs | LangGraph · Groq · PostgreSQL · AviationStack |
 | **[CareerGym AI](https://github.com/Abhay-Chand)** | Interview-prep platform with speaking, typing & technical labs feeding a live readiness score | Python · Speech/NLP pipelines |
 
 <br>
