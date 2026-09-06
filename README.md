@@ -38,10 +38,9 @@ class AbhayChand:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Tripo](https://github.com/Abhay-Chand)** | Multi-agent travel planner — Flight → Hotel → Itinerary agents with real flight/search APIs | LangGraph · Groq · PostgreSQL · AviationStack |
-| **[LegaliGPT](https://github.com/Abhay-Chand)** | Agentic legal-AI assistant — async RAG over case law with LangGraph reasoning agents | LangGraph · SQLAlchemy 2.x (async) · Alembic · Pydantic |
-| **WavyGo FAQ Bot** *(production)* | Bilingual (EN/Hindi) WhatsApp support bot serving live rental customers | LangChain · Meta Cloud API · Redis · FastAPI |
-| **[CareerGym AI](https://github.com/Abhay-Chand)** | Interview-prep platform with speaking, typing & technical labs feeding a live readiness score | Python · Speech/NLP pipelines |
+| **[Tripo]([https://github.com/Abhay-Chand](https://github.com/Abhay-Chand/Tripo))** | Multi-agent travel planner — Flight → Hotel → Itinerary agents with real flight/search APIs | LangGraph · Groq · PostgreSQL · AviationStack |
+| **[JuriSense]([https://github.com/Abhay-Chand](https://github.com/Abhay-Chand/JuriSense))** | Agentic legal-AI assistant — async RAG over case law with LangGraph reasoning agents | LangGraph · SQLAlchemy 2.x (async) · Alembic · Pydantic |
+| **WavyGo FAQ Bot** *(Production)* | Bilingual (EN/Hindi) WhatsApp support bot serving live rental customers | LangChain · Meta Cloud API · Redis · FastAPI |
 
 <br>
 
