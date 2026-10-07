@@ -18,7 +18,7 @@
 
 AI Engineer at **WavyGo**, a self-drive bike & scooter rental platform, where I build RAG pipelines and conversational systems used in production. B.Tech AI/ML, graduating 2026. Published AI researcher — [IJSREM Vol. 10, Issue 8](https://www.ijsrem.com/) on intelligent productivity systems.
 
-I care about systems that actually ship — not notebooks that stop at 90% accuracy on a validation set. Everything below is either live, deployed, or in active production use.
+I care about systems that actually ship — not notebooks that stop at 90% accuracy on a validation set. 
 
 ```python
 class AbhayChand:
