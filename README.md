@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhay Chand 👋
 
-### AI Engineer building production RAG & agentic systems
+### AI Engineer Intern at Wavygo Mobility Services Pvt. Ltd 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+WavyGo;LangChain+%2B+LangGraph+%2B+FastAPI;RAG+Pipelines+%7C+Multi-Agent+Systems;Published+AI+Researcher+(IJSREM))](https://git.io/typing-svg)
 
